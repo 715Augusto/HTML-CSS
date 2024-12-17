@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(147, 216, 162);
+    margin: 0;
+    padding: 0;
+}
+
+header.cabeçalho {
+    background-image: linear-gradient(rgb(50, 228, 118), rgb(16, 83, 42));
+    padding: 10px;
+    margin: 0%;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+header p {
+    color: white;
+    text-align: center;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+main {
+    background-color: white;
+    width: 80%;
+    margin: 0% auto 2% auto;
+    overflow: auto;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.274);
+}
+
+h2{
+    margin: 10px;
+    color: rgb(12, 80, 12);
+}
+
+h3#titulos {
+    background-image: linear-gradient(to right, rgba(117, 197, 117, 0.644), rgba(208, 231, 208, 0));
+    color: rgb(12, 80, 12);
+    /* padding: 10px; */
+    margin: 10px;
+    padding-left: 5px;
+}
+
+section p {
+    text-indent: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+div{ 
+    padding: 10px;
+}
+
+img#bonecos {
+    width: 100%;
+}
+
+img#irina{
+    width: 100%;
+    
+}
+
+section#sete {
+    text-align: center;
+}
+
+img#menor {
+    height: 100px;
+    margin: 10px auto 10px auto;
+}
+
+section#nove {
+    background-color: rgb(3, 59, 3);
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+section#dez {
+    background-color: rgb(190, 241, 222);
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.315);
+}
+
+section#dez header {
+    background-color: rgb(62, 143, 102) ;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 10px;
+    font-weight: bold;
+    
+}
+
+#dez h3 {
+    color: white;
+    padding: 5px;
+}
+
+section#dez p{
+    text-align: justify;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+#parag-dois {
+    padding-bottom: 20px;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(6, 61, 6);
+    color: white;
+    margin: 0%;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+    margin: 0%;
+    padding: 5px; 
+}
