@@ -1,5 +1,4 @@
 # HTML-CSS
-https://715augusto.github.io/HTML-CSS/Exercicio.html
 
 <!DOCTYPE html>
 <html>
